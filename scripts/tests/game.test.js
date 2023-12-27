@@ -2,7 +2,6 @@
  * @jest-environment jsdom
  */
 
-const { test } = require("picomatch");
 const { game } = require("../game.js");
 
 beforeAll(() => {
